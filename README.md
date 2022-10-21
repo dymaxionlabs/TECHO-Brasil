@@ -5,7 +5,7 @@
 Los asentamientos son lugares donde familias, que habitan viviendas agrupadas o contiguas, se encuentran en una situación irregular de tenencia del terreno y carecen de acceso regular a uno o más servicios básicos de la vivienda (agua potable, energía eléctrica y alcantarillado/fosa séptica).
 
 
-Este proyecto, desarrollado en conjunto entre Dymaxion Labs y [TETO-Brasil](//https://teto.org.br/), tiene por objetivo la detección y seguimiento de los asentamientos, aplicando técnicas basadas en machine learning (ML) para el procesamiento de imágenes satelitales. Esto permite mapear grandes áreas de manera rápida y con bajos recursos.
+Este proyecto, desarrollado en conjunto entre Dymaxion Labs y [TETO-Brasil](https://teto.org.br/), tiene por objetivo la detección y seguimiento de los asentamientos, aplicando técnicas basadas en machine learning (ML) para el procesamiento de imágenes satelitales. Esto permite mapear grandes áreas de manera rápida y con bajos recursos.
 
 ![](img_readme/A.jpg)![](img_readme/B.jpg)
 
